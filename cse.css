@@ -1,0 +1,47 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: papayawhip;
+    font-family: sans-serif;
+}
+
+table, tr, th, td, caption {
+    border:1px solid black;
+    border-collapse:collapse;
+    border-style:double;
+    padding:0.5rem;
+}
+
+table {
+    max-height:100px;
+}
+
+#cse {
+    font-style:italic;
+    font-size:24px;
+    background-color:blue;
+    color:white;
+}
+
+.timing {
+    color:red;
+}
+
+.heading {
+    color: rgb(152, 7, 152);
+    font-size:20px;
+}
+
+#sub {
+    background-color:rgb(115, 115, 244);
+}
+
+#room {
+    background-color:lightgreen;
+}
+
+#faculty {
+    background-color: rgb(222, 116, 77);
+}
